@@ -65,7 +65,7 @@ All collections are harmonized to a common band naming scheme and cloud-masked u
 ```
 ├── LST_Prediction.ipynb   # Main notebook (all steps)
 ├── data/
-│   └── gee_data_30m_new.tif           # Downloaded GeoTIFF (not tracked by git)
+│   └── data.md           # Download the GeoTIFF File from the drive link 
 ├── outputs/
 │   ├── actual_lst_grid_1999_2025_6x5_boundary.png
 │   ├── lst_actual_vs_predicted_2021.png
