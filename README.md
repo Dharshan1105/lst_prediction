@@ -63,7 +63,7 @@ All collections are harmonized to a common band naming scheme and cloud-masked u
 ## 📁 Repository Structure
 
 ```
-├── LST_VSCode_1999_2025_fixed.ipynb   # Main notebook (all steps)
+├── LST_Prediction.ipynb   # Main notebook (all steps)
 ├── data/
 │   └── gee_data_30m_new.tif           # Downloaded GeoTIFF (not tracked by git)
 ├── outputs/
